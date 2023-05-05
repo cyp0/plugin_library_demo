@@ -1,7 +1,7 @@
 name: library_demo_cypo
 description: A new Flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/cyp0/plugin_library_demo.git
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
